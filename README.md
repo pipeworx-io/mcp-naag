@@ -2,7 +2,7 @@
 
 Multistate **state attorney-general** enforcement — the coalition layer of US enforcement, from the National Association of Attorneys General (naag.org). Keyless.
 
-Part of [Pipeworx](https://pipeworx.io) — an MCP gateway connecting AI agents to 1679+ live data sources.
+Part of [Pipeworx](https://pipeworx.io) — an MCP gateway connecting AI agents to 1683+ live data sources.
 
 `enforcement-actions` covers the federal layer (DOJ, SEC). This covers what groups of state AGs do together: 819 multistate cases, 63 coalition policy letters, and NAAG's own announcements.
 
@@ -82,7 +82,7 @@ directly, instead of just this one's:
 }
 ```
 
-Both URLs reach the same gateway and the same 1679+ data sources. The
+Both URLs reach the same gateway and the same 1683+ data sources. The
 only difference is which pack's tools are listed **directly**; `ask_pipeworx`
 reaches all of them from either one.
 
