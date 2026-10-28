@@ -2,8 +2,8 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.pipeworx-io/naag",
   "title": "Naag",
-  "description": "State attorney-general multistate enforcement, from the National Association",
-  "version": "0.1.2",
+  "description": "State attorney-general multistate enforcement, from the National Association of Attorneys General…",
+  "version": "0.1.3",
   "websiteUrl": "https://pipeworx.io/packs/naag",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-naag",
