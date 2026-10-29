@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/naag",
   "title": "Naag",
   "description": "State attorney-general multistate enforcement, from the National Association of Attorneys General…",
-  "version": "0.1.3",
+  "version": "0.2.0",
   "websiteUrl": "https://pipeworx.io/packs/naag",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-naag",
